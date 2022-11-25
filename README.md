@@ -28,3 +28,8 @@
 
 ![Block-scheme](Block-scheme.png)
 
+3. Сделано: данный репозиторий снабжен оформленным текстовым описанием решения (в данном файле README.md).
+
+4. Программа, решающая задачу написана, и находится в ветке [main](https://github.com/OlgaVZhukova/Control_test/blob/main/Task/Program.cs).
+
+
